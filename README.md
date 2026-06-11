@@ -1,6 +1,6 @@
 # MangoXPPNet — Official Implementation
 
-This repository contains the original Jupyter Notebooks for the MangoXPPNet architecture and its comparative baseline experiments, as presented in our Q1 journal manuscript.
+This repository contains the original Jupyter Notebooks for the MangoXPPNet architecture and its comparative baseline experiments, as presented in our manuscript.
 
 ## Repository Structure
 - `MangoLeafBD/` — MangoXPPNet proposed model + AlexNet, VGG16, VGG19, ResNet50 baselines, multi-backbone runner, and ROC/AUC analysis
